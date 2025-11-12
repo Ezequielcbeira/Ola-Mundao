@@ -12,3 +12,4 @@ Acredite em mim você é bom. Só precisa se concentrar muito e selecionar nas c
 **Come on** *Ezequiel*
 ![Imagem de Infográficos que esta no PC](https://github.com/user-attachments/assets/b7abe8f2-f272-4f84-92b5-f932b95dbf7e)
 <img width="720" height="264" alt="raw1-1736162072993" src="https://github.com/user-attachments/assets/6ac5fb54-3dc1-42de-940e-9b5754be3b5b" />
+[acesse o meu GitHub] (https://ezequielcbeira.github.com)
