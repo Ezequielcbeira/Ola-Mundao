@@ -1,4 +1,8 @@
 # Olá, Mundão
+##Olá Mundaozão
+###Que Legal fazer um repositorio com tudo que voce aprendeu!
+---
+__*Markdown*__
 Primeiro repositório de versionamento criado com GitHub Desktop após aula de Curso em Video!
 Muito bem, vejo que agora estas se aperfeiçoando na forma de uso do GitHub. Meus parabens, pratique mais vezes para adquirir mais dominio desta ferramenta maravilhosa.
 Muito bem, vejo que agora estas se aperfeiçoando na forma de uso do GitHub. Meus parabens, pratique mais vezes para adquirir mais dominio desta ferramenta maravilhosa.
